@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hello World
-
+Campus Ambassador at HackerEarth
+Operational Director at Microsoft Technical Community
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KhannaNarian)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kartikeya-khanna-1274b7194/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/kartikeya532001/)
