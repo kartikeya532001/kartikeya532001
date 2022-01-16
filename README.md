@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hello World
 ### Campus Ambassador at HackerEarth
 ### Operational Director at Microsoft Technical Community
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KhannaNarian)
