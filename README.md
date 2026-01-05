@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/kartikeya532001/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kartikeya532001.kartikeya532001)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya532001&langs_count=5&theme=tokyonight)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya532001&langs_count=5&theme=tokyonight)]()--!>
 
 
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kartikeya532001&count_private=true&theme=tokyonight&showicons=true)]() --!>
